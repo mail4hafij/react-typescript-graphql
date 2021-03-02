@@ -1,0 +1,7 @@
+schema: https://graphqlzero.almansi.me/api
+generates:
+  ./src/graphql/types.d.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-graphql-request
