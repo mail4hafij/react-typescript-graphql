@@ -1,6 +1,7 @@
-schema: https://graphqlzero.almansi.me/api
+schema: http://localhost:65216/graphql
+documents: "./src/graphql/*.ts"
 generates:
-  ./src/graphql/types.d.ts:
+  ./src/generated/sdk.generated.ts:
     plugins:
       - typescript
       - typescript-operations

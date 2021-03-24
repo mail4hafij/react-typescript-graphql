@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Landlord.SRC", "Landlord.SRC\Landlord.SRC.csproj", "{376EAA53-A2F8-41F6-8D5C-D02A798048D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Landlord.API", "Landlord.API\Landlord.API.csproj", "{19E58ACD-9A0D-4213-B37D-879D4BB14ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376EAA53-A2F8-41F6-8D5C-D02A798048D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376EAA53-A2F8-41F6-8D5C-D02A798048D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376EAA53-A2F8-41F6-8D5C-D02A798048D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376EAA53-A2F8-41F6-8D5C-D02A798048D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E58ACD-9A0D-4213-B37D-879D4BB14ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E58ACD-9A0D-4213-B37D-879D4BB14ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E58ACD-9A0D-4213-B37D-879D4BB14ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E58ACD-9A0D-4213-B37D-879D4BB14ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1837009A-F8BF-4381-9343-D1C7A206E836}
+	EndGlobalSection
+EndGlobal

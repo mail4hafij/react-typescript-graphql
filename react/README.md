@@ -1,5 +1,9 @@
 # react-typescript-graphql
 
+The idea here is to setup a very basic react application in typescript which communicates with GraphQL banckend.
+
+## create react project with typscript
+
 npx create-react-app --template typescript .
 
 ## graphql code generator
@@ -8,26 +12,14 @@ https://github.com/dotansimha/graphql-code-generator
 
 https://graphql-code-generator.com/docs/getting-started/installation
 
+## To generate ready to use SDK
+
 https://graphql-code-generator.com/docs/plugins/typescript-graphql-request
 
-https://www.npmjs.com/package/graphql-request
+To generate the sdk code
 
-https://graphqlzero.almansi.me/api
+`yarn generate`
 
-The idea here is to setup a basic react application in typescript which communicates with GraphQL banckend.
+## Starting react app
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+`yarn start`
