@@ -3,6 +3,6 @@ The idea here is to setup a basic react application in typescript which communic
 
 There are two solutions. The graphQL solution is implemented in .netcore 2.0. The other solution is the react app. 
 
-TODO: 
+TODO: update the readme file with proper description.
 
 
