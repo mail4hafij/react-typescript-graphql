@@ -11,6 +11,7 @@ The frontend project is called react. Open react app/folder with VS code. Any ch
 
 ## graphql code generator
 You can read more about the code generator here.
+
 https://github.com/dotansimha/graphql-code-generator
 
 https://graphql-code-generator.com/docs/getting-started/installation
