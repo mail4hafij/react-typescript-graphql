@@ -27,7 +27,10 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
-
+Landlord.SRC/obj
+Landlord.API/obj
+Landlord.SRC/bin
+Landlord.API/bin
 # Visual Studio 2015
 .vs/
 
