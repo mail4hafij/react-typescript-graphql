@@ -8,7 +8,7 @@ There are two projects in the solution.
     
 The frontend project is called ```react```. Open the ```react``` app/folder with VS code. I plan to generate a typescript SDK inside my ```react``` application from the GraphQL schema. This will allow the ```react``` application to easily use the SDK to fetch and save data. I used graphql code generator to do exactly that. Run `yarn generate` to generate the SDK.
 
-Note that, any changes to GraphQL api therefor must be reflected on the ```react``` application. So run `yarn generate` whenever there is a change in the GraphQL api.
+Note that, any changes to GraphQL api must be reflected on the ```react``` application. So run `yarn generate` whenever there is a change in the GraphQL api.
 
 ## graphql code generator
 You can read more about the code generator here.
